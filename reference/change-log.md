@@ -1,13 +1,23 @@
 # Change log
 
+*   [ ] \=== **25-03-2022 ===**\
+    ****🟢 NEW FEATURE 🟢
+
+    1️⃣ Added Watermark option to the bot. (use /settings command)\
+
+
+    ✅ Fix some bug translate language feature \
+    ✅ Fix some bug when forward file, video, image, voice ..etc at channel restrict \
+    ✅ Improved some functions and fixed many small bugs.\
+
 * [ ] \=== **17-03-2022 ===**\
-  ****🟢 NEW FEATURED 🟢\
+  ****🟢 NEW FEATURE 🟢\
   1️⃣ Add Translate Language (use /settings command) \
   \
   ✅ Improved some functions and fixed many small bugs\
 
 *   [ ] \=== **16-03-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ Add Crypto Filters (use /settings command) \
     2️⃣ Add more information for Blacklist and Whitelist when using /settings command \
@@ -21,7 +31,7 @@
     ✅ Improved some functions and fixed many small bugs\
 
 *   [ ] \=== **09-03-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ New Cleaner format: URL, Mention, Hashtag \
     2️⃣ New Filters: Link \
@@ -38,7 +48,7 @@
     🆘 Because the number of users using BOT is increasing, I have created a separate channel to conveniently notify everyone \
     ▶️ Join here: https://t.me/Auto\_Forward\_Messages
 * [ ] \=== **05-03-2022 ===**\
-  ****🟢 NEW FEATURED 🟢\
+  ****🟢 NEW FEATURE 🟢\
   1️⃣ Add **Cleaner** feature for each task separately (you can see it by typing /settings => select task label => Cleaner (Here you can delete many things that you do not want to appear in the message.)\
   2️⃣ Support new filters: Video, Audio, Sticker, Text\
   3️⃣ Support new function: Restart Setup, Reset Config button (use command /profile)\
@@ -47,13 +57,13 @@
   ✅ Automatically stop all forward actions when your account is time-limited. When the limit expires, it will automatically work again.\
 
 *   [ ] \=== **23-02-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ Add Clone feature (use command /clone for document)
 
     2️⃣ Add Logout feature (use command /profile -> Logout)
 *   [ ] \=== **19-02-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ Add Filter Users feature for each task separately (you can see it by typing /settings => select task label => Filter Users (type /filter\_users for create)
 
@@ -63,7 +73,7 @@
 
     ✅ Fix some bug forward private group
 *   [ ] \=== **15-02-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ Add replace word feature, even powerful syntax support like regex (you can type /replace for instructions on how to use it)
 
@@ -75,7 +85,7 @@
 
     We experienced some system crashes due to overload. I don't think this BOT will be supported by so many people in such a short time
 *   [ ] \=== **11-02-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     1️⃣ Add Filter feature for each task separately (you can see it by typing /settings => select task label => Filters ➡️ => here will appear the features)
 
@@ -87,7 +97,7 @@
 
     We apologize for the connection loss a few hours ago due to some server issues. Everything is working fine now.
 *   [ ] \=== **07-02-2022 ===**\
-    ****🟢 NEW FEATURED 🟢
+    ****🟢 NEW FEATURE 🟢
 
     We have just updated many new features, you can type /settings to see it. very simple to use, you just need to double click on the options you want to enable/disable:
 
