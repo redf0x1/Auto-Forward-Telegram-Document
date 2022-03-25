@@ -6,8 +6,8 @@
     1️⃣ Added Watermark option to the bot. (use /settings command)\
 
 
-    ✅ Fix some bug translate language feature \
-    ✅ Fix some bug when forward file, video, image, voice ..etc at channel restrict \
+    ✅ Fix some bug translate language feature.\
+    ✅ Fix some bug when forward file, video, image, voice ..etc in channel restrict saving content. \
     ✅ Improved some functions and fixed many small bugs.\
 
 * [ ] \=== **17-03-2022 ===**\
