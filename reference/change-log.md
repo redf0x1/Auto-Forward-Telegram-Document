@@ -1,5 +1,13 @@
 # Change log
 
+* [ ] \=== **11-04-2022 ===**\
+  ****✅ Optimize Clone Feature: now you can copy all messages, stickers, images, files, videos ..etc. on all channels with content restriction enabled, at lightning speed. In addition, you can also use the /replace feature when clone.\
+  ✅ Upgrade algorithm for replace feature, now you just need to know how to use regex, you can do everything with our BOT. In addition, if your regex syntax is wrong, BOT will automatically ignore it, you should check the syntax carefully before using it.\
+  ✅ Automatically alert you when BOT cannot connect to your account or your account is limited by telegram. It will help you proactively know how your account is doing.\
+  ✅ Fix bug duplicate reply message \
+  ✅ Fix bug black/white list not work with Album\
+  ✅ Improved some functions and fixed many small bugs.\
+
 *   [ ] \=== **25-03-2022 ===**\
     ****🟢 NEW FEATURE 🟢
 
